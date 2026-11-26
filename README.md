@@ -1,4 +1,5 @@
 [![make.fun](https://make.fun/badge/token-radar-01.svg)](https://make.fun/c/token-radar-01)
+[![make.fun rank](https://make.fun/badge/token-radar-01/julianzrn/token-radar/rank.svg)](https://make.fun/c/token-radar-01)
 
 # Token Radar — radar-2
 
