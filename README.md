@@ -1,3 +1,5 @@
+[![make.fun](https://make.fun/badge/token-radar-01.svg)](https://make.fun/c/token-radar-01)
+
 # Token Radar — radar-2
 
 A token launch radar for make.fun's token-radar-01 bounty. It reads the sealed DefiLlama
